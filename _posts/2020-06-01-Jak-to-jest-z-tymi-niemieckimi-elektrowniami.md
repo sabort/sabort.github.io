@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Jak to jest z Zielonymi i niemiecką energetyką"
+author: MB
 ---
 
 # Polski Green Deal #
