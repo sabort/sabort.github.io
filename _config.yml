@@ -1,12 +1,12 @@
 # Site settings
-title: projekt: Polityczny
+title: projekt Polityczny
 description: >
     Bo tweet to za mało
 author: MB
 email: sabort@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sabort.github.io" # the base hostname & protocol for your site
-twitter_username: @PPolityczny
+twitter_username: PPolityczny
 
 # Build settings
 include: [_pages]
