@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Jak to jest z Zielonymi i niemiecką energetyką"
+---
+
 # Polski Green Deal #
 
 Niedawno redaktor Mazurek, ten sam, którego wywody ministra o spisku producenta sedesów z ekologami nie sprowokowały to ostrej reakcji, przejechał się niczym walec po posłance Tracz. Niestety posłanka Tracz nie jest specjalistką w dziedzinach, o których chciała mówić, więc jej obrona skazana jest na porażkę. Jednak niektóre jej wypowiedzi były paliwem dla krytyków polityki energetycznej Zielonych. Jak zawsze, 'naukowi' humaniści atakowali 'antynaukowych' Zielonych z powodu rzekomej niemożności pogodzenia zamykania elektrowni węglowych i atomowych z dekarbonizacją gospodarki.
