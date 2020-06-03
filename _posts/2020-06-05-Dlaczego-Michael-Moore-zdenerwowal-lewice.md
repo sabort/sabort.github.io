@@ -6,7 +6,7 @@ author: MB
 
 # Jak to się zaczęło #
 
-Pod koniec kwietnia, na YouTube został za darmo udostępniony film [Planet of the Humans](https://en.wikipedia.org/wiki/Planet_of_the_Humans]) w reżyserii Jeff Gibbsa. Co ważniejsze, jednym z producentów filmu jest sam Michael Moore. O filmie stało się głośno z powodu kontrowersji, które wywołał. Już od pierwszego dnia po premierze, światowe media (The Guardian) donosiły, że mało znana laikom organizacja ekologiczna protestuje, ponieważ film stawia ich w złym świetle, a oni już zmienili swój stosunek do pewnych spraw. 
+Pod koniec kwietnia, na YouTube został za darmo udostępniony film [Planet of the Humans](https://en.wikipedia.org/wiki/Planet_of_the_Humans) w reżyserii Jeff Gibbsa. Co ważniejsze, jednym z producentów filmu jest sam Michael Moore. O filmie stało się głośno z powodu kontrowersji, które wywołał. Już od pierwszego dnia po premierze, światowe media (The Guardian) donosiły, że mało znana laikom organizacja ekologiczna protestuje, ponieważ film stawia ich w złym świetle, a oni już zmienili swój stosunek do pewnych spraw. 
 
 # O co poszło # 
 
