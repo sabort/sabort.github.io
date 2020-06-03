@@ -6,7 +6,7 @@ author: MB
 
 # Jak to się zaczęło #
 
-Pod koniec kwietnia, na YouTube został za darmo udostępniony film (https://en.wikipedia.org/wiki/Planet_of_the_Humans)[Planet of the Humans] w reżyserii Jeff Gibbsa. Co ważniejsze, jednym z producentów filmu jest sam Michael Moore. O filmie stało się głośno z powodu kontrowersji, które wywołał. Już od pierwszego dnia po premierze, światowe media (The Guardian) donosiły, że mało znana laikom organizacja ekologiczna protestuje, ponieważ film stawia ich w złym świetle, a oni już zmienili swój stosunek do pewnych spraw. 
+Pod koniec kwietnia, na YouTube został za darmo udostępniony film [https://en.wikipedia.org/wiki/Planet_of_the_Humans](Planet of the Humans) w reżyserii Jeff Gibbsa. Co ważniejsze, jednym z producentów filmu jest sam Michael Moore. O filmie stało się głośno z powodu kontrowersji, które wywołał. Już od pierwszego dnia po premierze, światowe media (The Guardian) donosiły, że mało znana laikom organizacja ekologiczna protestuje, ponieważ film stawia ich w złym świetle, a oni już zmienili swój stosunek do pewnych spraw. 
 
 # O co poszło # 
 
@@ -21,5 +21,5 @@ Gibbs nie tyle przedstawia fałszywe informacje, co dobiera fakty pod swoją tez
 Film tak naprawdę przekazuje nam smutną prawdę, której nikt nie chce zaakceptować. Pudrowanie systemu nie jest rozwiązaniem. Przeludnienie i nieumiarkowana konsumpcja uniemożliwiają powrót do niskiej presji na środowisko. I to zapewne najbardziej zdenerwowało ludzi, którzy w swoim przekonaniu prezentują proekologiczną postawę. Ktoś wyrwał ich ze spokojnego snu. Niestety, także polska lewica nie jest w stanie zaakceptować podstawowych faktów. Mieszkańcy Ziemi nie mogą rozmnażać się jak króliki, codzienny ciepły prysznic to standard dla niewielkiej części światowej populacji, a dwadzieścia metrów kwadratowych na głowę to aż nadto. Bez zmian systemowych, nie rozwiążemy problemów ekologicznych. Zmiany w systemie pozyskiwania energii na nic się nie zdadzą, jeśli będziemy potrzebować co raz więcej energii.
 
 
-(https://krytykapolityczna.pl/swiat/lukasz-dabrowiecki-biomasa-ekosciema/)[https://krytykapolityczna.pl/swiat/lukasz-dabrowiecki-biomasa-ekosciema/]
-(https://planetofthehumans.com/)[https://planetofthehumans.com/]
+[https://krytykapolityczna.pl/swiat/lukasz-dabrowiecki-biomasa-ekosciema/](https://krytykapolityczna.pl/swiat/lukasz-dabrowiecki-biomasa-ekosciema/)
+[https://planetofthehumans.com/](https://planetofthehumans.com/)
